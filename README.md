@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, nice to meet you!<br>🫡 My name is Gurkan, but you might also know me as RecLinq!<br>🔒 A lot of my contributions are private but I still try to focus on committing myself to open-source projects and libraries!
+👋 Hey there, nice to meet you!<br>🫡 My name is Gurkan, but you might also know me as RecLinq!<br>🔒 A lot of my contributions are private but I still try to focus on committing myself to open-source projects!
 
 
 ## 🌐 Socials:
